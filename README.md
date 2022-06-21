@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🌱 I’m currently learning Go
+###  I’m currently learning Go
 https://go.dev/play/p/PMpje34W5E_a
 
 https://go.dev/play/p/AofjwSOZ-Ux
